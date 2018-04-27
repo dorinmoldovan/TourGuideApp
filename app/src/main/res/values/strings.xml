@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">Tour Guide App</string>
+
+    <!-- The title of the application -->
+    <string name="app_name">Cluj-Napoca</string>
+
+    <!-- Category name for clubs -->
+    <string name="category_clubs">Clubs</string>
+
+    <!-- Category name for malls -->
+    <string name="malls">Malls</string>
+
+    <!-- Category name for universities -->
+    <string name="universities">Universities</string>
+
+    <!-- Category name for restaurants -->
+    <string name="restaurants">Restaurants</string>
+
 </resources>
