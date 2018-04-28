@@ -7,14 +7,13 @@
     <string name="category_clubs">Clubs</string>
 
     <!-- Category name for malls -->
-    <string name="malls">Malls</string>
-
-    <!-- Category name for universities -->
-    <string name="universities">Universities</string>
+    <string name="category_malls">Malls</string>
 
     <!-- Category name for restaurants -->
-    <string name="restaurants">Restaurants</string>
+    <string name="category_restaurants">Restaurants</string>
 
+    <!-- Category name for universities -->
+    <string name="category_universities">Universities</string>
     <string-array name="clubs">
         <item>NOA</item>
         <item>Phi 18</item>
@@ -47,6 +46,15 @@
         <item>Gheorghe Dima Music Academy</item>
         <item>University of Agricultural Sciences and Veterinary Medicine Cluj-Napoca</item>
         <item>Art and Design University of Cluj-Napoca</item>
+    </string-array>
+
+    <string-array name="universities_images">
+        <item>ic_utcn</item>
+        <item>ic_ubb</item>
+        <item>ic_umf</item>
+        <item>ic_amgd</item>
+        <item>ic_usamv</item>
+        <item>ic_adu</item>
     </string-array>
 
 </resources>

@@ -72,4 +72,11 @@ public class Location {
     public void setImageResourceId(Integer mImageResourceId) {
         this.mImageResourceId = mImageResourceId;
     }
+
+    /**
+     * Returns a boolean value that is true if the location has an image and false otherwise
+     */
+    public boolean hasImage() {
+        return mImageResourceId != NO_IMAGE_PROVIDED;
+    }
 }

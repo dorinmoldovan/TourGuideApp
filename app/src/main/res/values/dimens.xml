@@ -1,0 +1,13 @@
+<resources>
+    <!-- Height of each list item -->
+    <dimen name="list_item_height">80dp</dimen>
+
+    <!-- Image margin -->
+    <dimen name="image_margin">16dp</dimen>
+
+    <!-- Padding -->
+    <dimen name="padding">16dp</dimen>
+
+    <!-- The size of the text -->
+    <dimen name="textSize">16sp</dimen>
+</resources>
