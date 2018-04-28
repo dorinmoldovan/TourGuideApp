@@ -15,4 +15,38 @@
     <!-- Category name for restaurants -->
     <string name="restaurants">Restaurants</string>
 
+    <string-array name="clubs">
+        <item>NOA</item>
+        <item>Phi 18</item>
+        <item>Midi</item>
+        <item>Revolution</item>
+        <item>Euphoria Music Hall</item>
+        <item>Caro</item>
+    </string-array>
+
+    <string-array name="malls">
+        <item>Iulius Mall</item>
+        <item>VIVO!</item>
+        <item>Platinia Shopping Center</item>
+    </string-array>
+
+    <string-array name="restaurants">
+        <item>Da Pino</item>
+        <item>Tokyo Japanese Restaurant</item>
+        <item>Samsara Food House</item>
+        <item>A Camponeza</item>
+        <item>Roata</item>
+        <item>Indigo</item>
+        <item>Casa Boema</item>
+    </string-array>
+
+    <string-array name="universities">
+        <item>Technical University of Cluj-Napoca</item>
+        <item>Babes-Bolyai University</item>
+        <item>Iuliu Hatieganu University of Medicine and Pharmacy Cluj-Napoca</item>
+        <item>Gheorghe Dima Music Academy</item>
+        <item>University of Agricultural Sciences and Veterinary Medicine Cluj-Napoca</item>
+        <item>Art and Design University of Cluj-Napoca</item>
+    </string-array>
+
 </resources>
